@@ -1,0 +1,9 @@
+name: Endereyepointer
+version: '${project.version}'
+main: me.stephenminer.endereyepointer.EnderEyePointer
+api-version: 1.13
+authors: [ Meep, Stephenminer ]
+description: Allows you change where ender eyes point to
+commands:
+  addEyeTarget:
+  removeEyeTarget:
